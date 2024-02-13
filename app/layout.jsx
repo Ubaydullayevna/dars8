@@ -8,7 +8,7 @@ weight: ['300','500'] });
 
 export const metadata = {
   title: "Home",
-  description: "Generate/d by create next app",
+  description: "Generate/d by create next app...",
 };
 
 export default function RootLayout({ children }) {
