@@ -3,7 +3,7 @@
 import ProductList from "./components/ProductList"
 
 async function getData () {
-  const req = await fetch('https://dummyjson.com/products')
+  const req = await fetch('https://dummyjson.com/products',)
   const data = await req.json()
   return data
 }
